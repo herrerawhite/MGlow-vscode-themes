@@ -1,0 +1,223 @@
+{
+  "name": "mglow-themes",
+  "displayName": "MGlow-themes",
+  "description": "this is the best vscode themes I made for both dark theme lovers and light themes lovers !",
+  "version": "1.0.0",
+  "license": "MIT",
+  "publisher": "Herrera White",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "icon": "MGlow-theme.ico",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "light",
+    "theme",
+    "best dark theme",
+    "best light theme",
+    "glow",
+    "maher",
+    "gold",
+    "darl blue",
+    "blue",
+    "cyan",
+    "sky blue",
+    "mint",
+    "fresh mint",
+    "green",
+    "purple",
+    "red",
+    "coral red"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/herrerawhite/MGlow-vscode-themes"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "MGlow-Gold Dark-Earthy Tones",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-gold dark-earthy-tones.json"
+      },
+      {
+        "label": "MGlow-Gold Dark-Elegant Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-gold dark-elegant-dusk.json"
+      },
+      {
+        "label": "MGlow-Gold Dark-Fresh Garden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-gold dark-fresh-garden.json"
+      },
+      {
+        "label": "MGlow-Gold Dark-Golden Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-gold dark-golden-glow.json"
+      },
+      {
+        "label": "MGlow-Gold Dark-Midnight Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-gold dark-midnight-glow.json"
+      },
+      {
+        "label": "MGlow-Gold Dark-Ocean Breeze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-gold dark-ocean-breeze.json"
+      },
+      {
+        "label": "MGlow-Gold Dark-Soft Pastels",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-gold dark-soft-pastels.json"
+      },
+      {
+        "label": "MGlow-Gold Dark-Urban Chic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-gold dark-urban-chic.json"
+      },
+      {
+        "label": "MGlow-Gold Dark-Vibrant Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-gold dark-vibrant-sunset.json"
+      },
+      {
+        "label": "MGlow-Gold Dark-Warm Radiance",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-gold dark-warm-radiance.json"
+      },
+      {
+        "label": "MGlow-Mint Green Dark-Cool Breeze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-mint green dark-cool-breeze.json"
+      },
+      {
+        "label": "MGlow-Mint Green Dark-Fresh Mint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-mint green dark-fresh-mint.json"
+      },
+      {
+        "label": "MGlow-Mint Green Dark-Serene Waters",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-mint green dark-serene-waters.json"
+      },
+      {
+        "label": "MGlow-Mint Green Dark-Tropical Oasis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-mint green dark-tropical-oasis.json"
+      },
+      {
+        "label": "MGlow-Mint Green Dark-Vibrant Jungle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-mint green dark-vibrant-jungle.json"
+      },
+      {
+        "label": "MGlow-Purple Dark-Dreamy Lavender 1",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-purple dark-dreamy-lavender 1.json"
+      },
+      {
+        "label": "MGlow-Purple Dark-Dreamy Lavender 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-purple dark-dreamy-lavender 2.json"
+      },
+      {
+        "label": "MGlow-Purple Dark-Enchanted Garden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-purple dark-enchanted-garden.json"
+      },
+      {
+        "label": "MGlow-Purple Dark-Mystic Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-purple dark-mystic-night.json"
+      },
+      {
+        "label": "MGlow-Purple Dark-Soft Twillight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-purple dark-soft-twillight.json"
+      },
+      {
+        "label": "MGlow-Purple Dark-Vibrant Cosmos",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-purple dark-vibrant-cosmos.json"
+      },
+      {
+        "label": "MGlow-Blue Dark-Cyber Punk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-blue dark-cyber-punk.json"
+      },
+      {
+        "label": "MGlow-Blue Dark-Gentle Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-blue dark-gentle-night.json"
+      },
+      {
+        "label": "MGlow-Blue Dark-Gentle Twillight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-blue dark-gentle-twilight.json"
+      },
+      {
+        "label": "MGlow-Blue Dark-Serene Waters",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-blue dark-serene-waters.json"
+      },
+      {
+        "label": "MGlow-Blue Dark-Calm Oasis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-blue dark-calm-oasis.json"
+      },
+      {
+        "label": "MGlow-Blue Dark-Soft Dawn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-blue dark-soft-dawn.json"
+      },
+      {
+        "label": "MGlow-Blue Dark-Soft Medow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-blue dark-soft-medow.json"
+      },
+      {
+        "label": "MGlow-Blue Dark-Tranquil Breeze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-blue dark-tranquil-breeze.json"
+      },
+      {
+        "label": "MGlow-Blue Dark-Vintage Charm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-blue dark-vintage-charm.json"
+      },
+      {
+        "label": "MGlow-Blue Dark-Zen Garden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-blue dark-zen-garden.json"
+      },
+      {
+        "label": "MGlow-Coral Red Dark-Coral Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-coral red dark-coral-sunset.json"
+      },
+      {
+        "label": "MGlow-Coral Red Dark-Flamingo Bliss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-coral red dark-flamingo-bliss.json"
+      },
+      {
+        "label": "MGlow-Coral Red Dark-Radiant Rose",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-coral red dark-radiant-rose.json"
+      },
+      {
+        "label": "MGlow-Coral Red Dark-Sweet Strawberry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-coral red dark-sweet-strawberry.json"
+      },
+      {
+        "label": "MGlow-Coral Red Dark-Tropical Vibes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MGlow-coral red dark-tropical-vibes.json"
+      }
+    ]
+  }
+}
